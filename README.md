@@ -8,3 +8,6 @@ https://auth0.com/docs/quickstarts
 
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-java-get-started
+
+
+https://www.learn2crack.com/2016/09/android-user-registration-login-node-server.html
